@@ -24,7 +24,7 @@ features_train, features_test, labels_train, labels_test = preprocess()
 
 ##############################################################
 # Enter Your Code Here
-display(features_train)
+
 
 
 ##############################################################
